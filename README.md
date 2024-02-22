@@ -1,2 +1,2 @@
-# An-lise-de-dados-de-Inadimpl-ncia-de-uma-institui-o-financeira
-Os dados em formato CSV com informações sobre clientes de uma instituição financeira. O interesse é em explicar a segunda coluna, chamada de default, que indica se um cliente é adimplente(`default = 0`), ou inadimplente (`default = 1`).
+# Analise-de-dados-de-Inadimplencia-de-uma-instituicao-financeira
+Os dados estão no formato CSV e contém informações sobre clientes de uma instituição financeira. Em especial, estamos interessados em explicar a segunda coluna, chamada de **default**, que indica se um cliente é adimplente(`default = 0`), ou inadimplente (`default = 1`), ou seja, queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento de outros atributos, como salário, escolaridade e movimentação financeira.
